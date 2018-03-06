@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "/bubo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/bubo/favicon.ico",
+        "/bubo/index.html",
+        "/bubo/inline.4c85e62aff2de32d99de.bundle.js",
+        "/bubo/main.f54ca97e8578466893da.bundle.js",
+        "/bubo/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/bubo/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/bubo/inline.4c85e62aff2de32d99de.bundle.js": "264c33d9bdad833a60323768a6585d99257ceb3f",
+    "/bubo/main.f54ca97e8578466893da.bundle.js": "642841f31612b9e8ca52a9b119b60f1c08032d0a",
+    "/bubo/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/bubo/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/bubo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/bubo/index.html": "47a646f570700b66657432bfcefe438a92aeea68"
+  }
+}
